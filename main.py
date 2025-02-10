@@ -35,3 +35,10 @@ print("this has been done")
 lstset = list(st)
 
 print(lstset[2])
+
+
+Disk= ("this is a key test ")
+
+
+print(Disk)
+
